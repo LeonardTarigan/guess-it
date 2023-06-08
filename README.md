@@ -1,8 +1,8 @@
+![Game Screenshot](./public/screenshot.png)
+
 # GUESS IT
 
 Guess It is a number guessing game built using React Vite, Tailwind, and Zustand. It is designed to be a fun and interactive game where players have to guess a number within a certain time limit.
-
-![Game Screenshot](./public/screenshot.png)
 
 ## Installation
 
